@@ -1,4 +1,4 @@
--- ---------------------SESSION 4 – ADVANCED SQL QUERY OPTIMIZATION + THEORY
+-- ---------------------SESSION 4 – ADVANCED SQL QUERY OPTIMIZATION
 -- =================================================================================================
 
 USE sakila;
