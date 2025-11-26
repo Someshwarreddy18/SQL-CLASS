@@ -1,5 +1,6 @@
 -- ---------------------SESSION 4 – ADVANCED SQL QUERY OPTIMIZATION
 -- =================================================================================================
+-- https://www.youtube.com/watch?v=SsobEdpSzI0
 
 USE sakila;
 
